@@ -292,15 +292,15 @@ footer p{
 }
 
 .social-icon i {
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 1rem;
-    color: #969BAB;
-    transition: 2s;
+    color: #999999;
+    transition: 1s;
 }
 
 .social-icon i:hover {
     color: #2d25a0;
-    transition: 2s;
+    transition: 1s;
 }
 
 
